@@ -1,0 +1,17 @@
+Olá! Esse projeto tem como intuito montar uma planilha de faturamento. Esta dividida em Três páginas (abas) { DADOS }, {RELATORIO }, {DESKBOARD }. 
+
+{ DADOS } : DEVE SER ATUALIZADA
+
+Página Responsável pelos dados, recebe valores de vendas Faturadas
+
+Na aba dados você consegue acompanhar o desempenho de cada vendedor. E o total do dia, a coluna da semana pode ser ocultada para minimizar a quantidade de informações na página. Quando as colunas a partir da D recebem algum valor a cima de 1 a cor delas alteram para um verde suave, e na coluna total para um verde-escuro. Essa página alimenta as outras, alimenta os gráficos e relatório, ela tem todos os dias e messes do ano de 2026. 
+
+
+{RELATORIO } NÃO DEVE SER MEXIDA
+A pagina Relatório é responsável pelos relatórios acompanhamento anual  por meses do ano e acompanhamento semanal. E também é responsável por ser a base de dados dos gráficos . Ela não deve ser alterada, cada célula funciona a partir de uma função que alimenta as tabelas .
+
+{DESKBOARD } MECHER APENAS NO FILTRO
+
+Já na página de Deskboard, ela é responsável pelos gráficos. Mostrando um acompanhamento anual e um filtro de acompanhamento por mês. Ela tem um gráfico de linhas na parte superior mostrando a evolução de cada um de acordo com o período de mês. Em baixo um filtro de mês. Em baixo um gráfico mostrando o desempenho de cada vendedor no mês escolhido, e em baixo desse gráfico uma tabela mostrando o resultado numérico de cada um e valor total por semana 
+
+A ideia é buscar organizar as informações e dados, conseguindo entregar valor, fazer um bom acompanhamento ! 
