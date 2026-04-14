@@ -1,7 +1,7 @@
 # template-faturamento
 Template de planilha de faturamento automatizado para freelancers e pequenos negócios.
 
-####  Funcionalidades
+###  Funcionalidades
 
 **Fluxo de Caixa:** Registro de entradas e controle diário.
 
@@ -11,13 +11,13 @@ Template de planilha de faturamento automatizado para freelancers e pequenos neg
 
 **Controle Diário:** Lançamentos individuais com soma total faturada por dia.
 
-####  Screenshots
+###  Screenshots
 Aqui você pode ver uma prévia da planilha:
 ![DADOS](./Docs/AbaDados.png)
 ![DASHBOARD](./Docs/AbaDeskboard.png)
 ![RELATORIO](./Docs/AbaRelatorio.png)
 
-####  Como usar
+###  Como usar
 
 Acesse o link para [FAZER UMA CÓPIA](https://docs.google.com/spreadsheets/d/19F7Za8Y6oYJh6REVrLocha_NVvUWWAOMaoLqXwwLyhQ/copy).
 
@@ -25,7 +25,7 @@ Ao abrir, escolha a opção de fazer uma cópia para o seu Drive. (Este projeto 
 
 Na aba **Dados**, substitua os nomes a partir da coluna **D** pelos nomes dos seus vendedores ou categorias.
 
-####  Informações Adicionais
+###  Informações Adicionais
 Para instruções detalhadas, consulte o arquivo de [INSTRUÇÕES](./InfoSheets/instruções.txt).
 
 ---
