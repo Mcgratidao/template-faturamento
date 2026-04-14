@@ -14,7 +14,7 @@ Template de planilha de faturamento automatizado para freelancers e pequenos neg
 ## 📸 Screenshots
 Aqui você pode ver uma prévia da planilha:
 ![DADOS](./Docs/AbaDados.png)
-![DASHBOARD](./Docs/AbaDashboard.png)
+![DASHBOARD](./Docs/AbaDeskboard.png)
 ![RELATORIO](./Docs/AbaRelatorio.png)
 
 ## 🚀 Como usar
